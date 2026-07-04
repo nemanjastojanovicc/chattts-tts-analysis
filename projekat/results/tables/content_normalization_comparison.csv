@@ -1,0 +1,4 @@
+text_id,content_type,char_count,synthesis_time_s,real_time_factor,naturalness_1_5,intelligibility_1_5,pronunciation_errors,manual_normalization_needed,normalization_action
+short_neutral,obican tekst,82,10.928950290894136,2.3350171099826342,5,5,0,False,nije potrebna
+numbers_terms,brojevi i tehnicki termini,107,17.97004833293613,2.4346909788329407,5,5,0,True,brojeve i skracenice zapisati fonetski
+abbreviations,skracenice,100,14.117636458016932,2.2972938475835756,5,5,0,True,skracenice razdvojiti ili zapisati fonetski

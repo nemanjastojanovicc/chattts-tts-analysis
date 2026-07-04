@@ -1,0 +1,11 @@
+text_id,language,category,style,text,char_count,word_count,has_numbers,has_special_tokens
+short_neutral,en,length,neutral,Chat T T S is a conversational text to speech system for interactive applications.,82,14,False,False
+medium_paragraph,en,length,neutral,"This example is longer than the first sentence. It is used to measure synthesis time, generated audio duration, and real time factor. The goal is to observe how the system behaves when the input contains several connected ideas.",228,38,False,False
+long_paragraph,en,length,neutral,"Conversational speech synthesis is important for voice assistants, educational software, and dialogue systems. A useful text to speech system should produce understandable audio, stable pronunciation, and natural prosody. In this experiment, the same synthesis pipeline is evaluated with different input lengths, sentence styles, and content types. The generated audio is saved, measured, and later rated using subjective scores for naturalness and intelligibility.",465,62,False,False
+question,en,style,question,Can a synthetic voice sound natural when it asks a short question?,66,12,False,False
+exclamation,en,style,exclamation,This result is surprisingly expressive and easy to understand!,62,9,False,False
+dialogue_reply,en,style,dialogue,"I understand your request. Let me explain the answer step by step, with a short pause between ideas.",100,18,False,False
+numbers_terms,en,content,technical,"The model generated 24 kilohertz audio in 3.5 seconds using a G P U, an A S R module, and a T T S pipeline.",107,25,True,False
+abbreviations,en,content,technical,"NASA, CPU, GPU, and API are common abbreviations that can be difficult for speech synthesis systems.",100,16,False,False
+serbian_short,sr,language,neutral,Ovo je kratak primer teksta na srpskom jeziku za proveru izgovora i razumljivosti.,82,13,False,False
+mixed_language,mixed,language,dialogue,"Ovo je mixed language primer: Chat T T S generates speech from text, ali izgovor srpskih reci moze biti nestabilan.",115,20,False,False

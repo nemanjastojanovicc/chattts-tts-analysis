@@ -1,0 +1,11 @@
+text_id,naturalness_1_5,intelligibility_1_5,pronunciation_errors,notes
+short_neutral,5,5,0,"I understand this short neutral sentence perfectly"
+medium_paragraph,5,5,0,"I understand this medium paragraph perfectly"
+long_paragraph,4,5,0,"I understand this long paragraph perfectly, but it is a bit harder to follow than the short and medium paragraphs"
+question,4,5,0,"I understand this question very good"
+exclamation,5,5,0,"I understand this exclamation very good"
+dialogue_reply,5,5,0,"I understand this dialogue reply very good"
+numbers_terms,5,5,0,"I understand this numbers and terms very good"
+abbreviations,5,5,0,"I understand this abbreviations very good"
+serbian_short,3,2,4,"Serbian words unstable"
+mixed_language,3,2,4,"Mixed language words unstable"

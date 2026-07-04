@@ -1,0 +1,5 @@
+text_id,comparison_style,pitch_mean_hz,rms_db,naturalness_1_5,intelligibility_1_5,pronunciation_errors
+short_neutral,neutral,159.23342343212383,-28.33827544243258,5,5,0
+question,question,106.55161790496558,-27.728414176066348,4,5,0
+exclamation,exclamation,121.75305062137082,-22.857118210199374,5,5,0
+dialogue_reply,dialogue,152.70273206460945,-24.235941187107795,5,5,0

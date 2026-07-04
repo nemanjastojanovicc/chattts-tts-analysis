@@ -1,0 +1,12 @@
+,value
+python,3.13.3
+python_executable,/Users/nemanjastojanovic/Desktop/elfak/2-audio/2-audio-tts/.venv/bin/python
+platform,macOS-15.7.3-arm64-arm-64bit-Mach-O
+processor,arm
+torch,2.8.0
+cuda_available,False
+cuda_device,
+ChatTTS,installed
+torchaudio,2.8.0
+librosa,0.11.0
+soundfile,0.14.0

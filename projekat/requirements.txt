@@ -1,0 +1,11 @@
+numpy>=1.24
+pandas>=2.0
+matplotlib>=3.7
+librosa>=0.10
+soundfile>=0.12
+torch>=2.0
+torchaudio>=2.0
+ChatTTS>=0.2.0
+jupyter>=1.0
+ipykernel>=6.0
+
