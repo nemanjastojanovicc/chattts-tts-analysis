@@ -2,6 +2,5 @@ teorijski/
 projekat/.venv/
 projekat/src/__pycache__/
 
-# ChatTTS model weights are downloaded/local assets and exceed GitHub limits.
 projekat/asset/*.safetensors
 projekat/asset/gpt/*.safetensors
